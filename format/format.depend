@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589964689 source:/home/khan/Desktop/Programacao/codeBlocks/format/main.cpp
+	<iostream>
+	<cmath>
+
